@@ -1,5 +1,5 @@
 
-![pyKeylogger](https://user-images.githubusercontent.com/77505989/162591491-fc2e14ea-3f2e-4d15-a86e-f0e7394a888d.png)
+
 
 Key loggers are activity-monitoring software programs that give hackers access to your data. The software is installed on your computer and records everything you type. Then it sends this log file to a server, where cybercriminals wait to use all this sensitive information.
 
